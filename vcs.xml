@@ -10,6 +10,10 @@
           <option name="url" value="https://github.com/fvictoria/hello-worldhttps://github.com/fvictoria/hello-world" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:fvictoria/hello-world.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects" />
