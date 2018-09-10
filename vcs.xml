@@ -34,6 +34,10 @@
           <option name="url" value="https://github.com/PVSD/cheating-on-your-arithmetic-fvictoria.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/PVSD/whats-my-name-fvictoria.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects" />
