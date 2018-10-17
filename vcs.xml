@@ -74,6 +74,10 @@
           <option name="url" value="https://github.com/PVSD/mag-pie-act-2-fvictoria.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/fvictoria/Encryption.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects" />
